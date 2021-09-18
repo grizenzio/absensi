@@ -1,6 +1,8 @@
 # Absensi
 Aplikasi Absensi Pegawai Berbasis Sistem Operasi Android (JAVA)
 
+# Project Progress Baru Sampai Simpan Data Absen di Local Database Menggunakan SQLite
+
 # Zxing QR Code
 https://github.com/zxing/zxing
 
