@@ -41,3 +41,15 @@ https://youtu.be/OmguFONF2FA
 Bagian #8 Menyimpan Data Absen Ke SQLite Local | Aplikasi Absensi Berbasis Android SQLite dan MySQL
 
 https://youtu.be/y3qC26AL66Y
+
+Bagian #9 Membuat Kelas Pegawai RecyclerView | Aplikasi Absensi Berbasis Android SQLite dan MySQL
+
+https://youtu.be/l5cb0k1TWRY
+
+Bagian #10 Membuat Daftar Adapter RecyclerView | Aplikasi Absensi Berbasis Android SQLite dan MySQL
+
+https://youtu.be/bFjzU7CfCAc
+
+Bagian #11 Menampilkan Data Absen RecyclerView | Aplikasi Absensi Berbasis Android SQLite dan MySQL
+
+https://youtu.be/uf-E_HC2B6s
