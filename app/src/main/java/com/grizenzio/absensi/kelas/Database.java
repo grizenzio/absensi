@@ -77,9 +77,9 @@ public class Database extends SQLiteOpenHelper {
     }
 
     //Prosedure Tampil Data RecyclerView
-    public Cursor TampilDataRv() {
+    public Cursor TampilDataAbsen() {
         SQLiteDatabase db = this.getWritableDatabase();
-        String[] columns = {ID, NIDN, NAMA, TANGGAL, JAM, STATUS};
+        String[] columns = {ID, NIDN, NAMA, TANGGAL, JAM, STATUS, TELAT};
         return db.query(TABLE_NAME, columns, null, null, null, null, null);
     }
 
