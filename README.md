@@ -56,7 +56,8 @@ https://youtu.be/uf-E_HC2B6s
 
 # Rest Api Absensi Menggunakan Slim Micro Framework
 
-Git
+Code Pada Git
+
 https://github.com/grizenzio/api-absensi.git
 
 Bagian #12 Menginstall Slim Micro Framework Versi 3 | Aplikasi Absensi Berbasis Android SQLite dan MySQL
