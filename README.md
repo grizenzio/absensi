@@ -53,3 +53,23 @@ https://youtu.be/bFjzU7CfCAc
 Bagian #11 Menampilkan Data Absen RecyclerView | Aplikasi Absensi Berbasis Android SQLite dan MySQL
 
 https://youtu.be/uf-E_HC2B6s
+
+#Rest Api Absensi Menggunakan Slim Micro Framework
+
+https://github.com/grizenzio/api-absensi.git
+
+Bagian #12 Menginstall Slim Micro Framework Versi 3 | Aplikasi Absensi Berbasis Android SQLite dan MySQL
+
+https://youtu.be/X6ne3ZK58ag
+
+Bagian #13 Mengkonfigurasi Slim Framework Versi 3 | Aplikasi Absensi Berbasis Android SQLite dan MySQL
+
+https://youtu.be/QBANK0718S8
+
+Bagian #14 Membuat Api Key Di Database | Aplikasi Absensi Berbasis Android SQLite dan MySQL
+
+https://youtu.be/g5N2FOZtlAg
+
+Bagian #15 Menjalankan RestAPI CRUD di Insomnia | Aplikasi Absensi Berbasis Android SQLite dan MySQL
+
+https://youtu.be/8u5aFmZARN4
