@@ -75,3 +75,33 @@ https://youtu.be/g5N2FOZtlAg
 Bagian #15 Menjalankan RestAPI CRUD di Insomnia | Aplikasi Absensi Berbasis Android SQLite dan MySQL
 
 https://youtu.be/8u5aFmZARN4
+
+# Menghubungkan Database MySQL dengan Database SQLite
+
+Bagian #16 Membuat Kelas Result dan Pegawai | Aplikasi Absensi Berbasis Android SQLite dan MySQL
+
+https://youtu.be/l93O1ZoTzuE
+
+Bagian #17 Membuat Kelas Retrofit Client | Aplikasi Absensi Berbasis Android SQLite dan MySQL
+
+https://youtu.be/8qBLhW3Iu7A
+
+Bagian #18 Menghubungkan Wifi Laptop dengan HP | Aplikasi Absensi Berbasis Android SQLite dan MySQL
+
+https://youtu.be/pz9tvrzM2L0
+
+Bagian #19 Simpan Data Absen Local dan Cloud | Aplikasi Absensi Berbasis Android SQLite dan MySQL
+
+https://youtu.be/b3e-ercoTmg
+
+Bagian #20 Membuat Activity Daftar Absen Cloud | Aplikasi Absensi Berbasis Android SQLite dan MySQL
+
+https://youtu.be/5Ri6RKr4aho
+
+Bagian #21 Menampilkan Data Absensi Cloud | Aplikasi Absensi Berbasis Android SQLite dan MySQL
+
+https://youtu.be/l_BxLrSVFhM
+
+Bagian #22 Memperbaiki Tampilan Antar Muka | Aplikasi Absensi Berbasis Android SQLite dan MySQL
+
+https://youtu.be/tNvNEnTt5Is
