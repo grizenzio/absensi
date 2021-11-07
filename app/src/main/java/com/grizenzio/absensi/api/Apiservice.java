@@ -14,7 +14,9 @@ public interface Apiservice {
 
     //TAMPIL SEMUA DATA
     @GET("absensi/")
-    Call<Pegawais> tampilDataAll();
+    Call<Pegawais> tampilDataAll(
+            @Query("kunci") String kunci
+    );
 
     //TAMPIL DATA DENGAN ID
 //    @GET("uri")

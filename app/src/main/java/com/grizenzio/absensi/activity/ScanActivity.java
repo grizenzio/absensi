@@ -44,6 +44,8 @@ public class ScanActivity extends AppCompatActivity implements ZXingScannerView.
         mScannerView = new ZXingScannerView(this);
         setContentView(mScannerView);
 
+        setTitle("Scan");
+
         //Inisialisasi kelas database
         db = new Database(this);
 

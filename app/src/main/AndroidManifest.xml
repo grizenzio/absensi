@@ -15,6 +15,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Absensi">
         <activity
+            android:name=".activity.DaftarCloudActivity"
+            android:parentActivityName=".activity.MainActivity"
+            android:exported="false" />
+        <activity
             android:name=".activity.DaftarActivity"
             android:exported="true"
             android:parentActivityName=".activity.MainActivity" />

@@ -11,7 +11,7 @@ import com.grizenzio.absensi.R;
 
 public class MainActivity extends AppCompatActivity {
 
-    private Button scan, daftar;
+    private Button scan, daftar, cloud;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -21,6 +21,8 @@ public class MainActivity extends AppCompatActivity {
         scan = findViewById(R.id.btn_scan);
 
         daftar = findViewById(R.id.btn_daftar);
+
+        cloud = findViewById(R.id.btn_cloud);
 
         scan.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -39,6 +41,17 @@ public class MainActivity extends AppCompatActivity {
                 //Ketika tombol daftar di tekan apa yang terjadi
                 //Ke Halaman Daftar Hadir
                 startActivity(new Intent(MainActivity.this, DaftarActivity.class));
+
+            }
+        });
+
+        cloud.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+                //Ketika tombol daftar di tekan apa yang terjadi
+                //Ke Halaman Daftar Hadir
+                startActivity(new Intent(MainActivity.this, DaftarCloudActivity.class));
 
             }
         });

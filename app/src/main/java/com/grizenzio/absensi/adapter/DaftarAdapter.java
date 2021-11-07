@@ -74,7 +74,15 @@ public class DaftarAdapter extends RecyclerView.Adapter<DaftarAdapter.MyViewHold
 
         holder.tanggal.setText(pegawai.getTanggal());
 
-        holder.status.setText(pegawai.getStatus());
+        if(pegawai.getStatus().equals("1")){
+
+            holder.status.setText("  Hadir  ");
+
+        }else if(pegawai.getStatus().equals("0")){
+
+            holder.status.setText("  Tidak Hadir  ");
+
+        }
 
     }
 
