@@ -3,11 +3,8 @@
     package="com.grizenzio.absensi">
 
     <uses-permission android:name="android.permission.CAMERA" />
-
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
@@ -17,26 +14,23 @@
         android:roundIcon="@drawable/ic_logo"
         android:supportsRtl="true"
         android:theme="@style/Theme.Absensi">
-
         <activity
             android:name=".activity.DaftarActivity"
-            android:parentActivityName=".activity.MainActivity"
-            android:exported="true" />
-
+            android:exported="true"
+            android:parentActivityName=".activity.MainActivity" />
         <activity
             android:name=".activity.ScanActivity"
-            android:parentActivityName=".activity.MainActivity"
-            android:exported="true" />
-
+            android:exported="true"
+            android:parentActivityName=".activity.MainActivity" />
         <activity
             android:name=".activity.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
     </application>
 
 </manifest>
